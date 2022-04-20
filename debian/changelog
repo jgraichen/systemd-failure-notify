@@ -1,0 +1,5 @@
+systemd-failure-notify (1.0.0) unstable; urgency=medium
+
+  * Initial Release.
+
+ -- Jan Graichen <jgraichen@altimos.de>  Wed, 20 Apr 2022 12:54:55 +0200

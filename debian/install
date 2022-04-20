@@ -1,0 +1,3 @@
+#!/usr/bin/dh-exec
+systemd-failure-notify.sh => usr/bin/systemd-failure-notify
+systemd-failure-notify.conf usr/share/systemd-failure-notify/
